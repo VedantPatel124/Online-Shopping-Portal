@@ -15,7 +15,7 @@
 
 # Features of Admin
 
-1. Product Management(Add,Update, Delete)
+1. Product Management (Add,Update, Delete)
 2. Order Management System
 3. User Management
 4. Category/ Sub Category Creation
