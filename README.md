@@ -2,12 +2,23 @@
 
 The Online Shopping Portal is developed using PHP, CSS, and JavaScript. It features both an admin side and a user side, where users can view shopping item details, sign up, and buy products online. Admins can add items and users, manage products, and perform other administrative tasks.
 
-## Features
+## User Features
 
-- Admin can manage users, products, and check subscribers.
-- Users can shop for available items after signing in.
-- Users can sign up/in to buy products online.
-- Users can shop for multiple items and pay online through cards.
+1. User Registration
+2. User login system
+3. Change password
+4. Forgot password
+5. Profile management sytem.
+6. Shopping cart
+7. Wishlist
+8. Order History
+
+## Admin Features
+
+1. Product Management (Add,Update, Delete)
+2. Order Management System
+3. User Management
+4. Category/ Sub Category Creation
 
 ## How to Run
 
@@ -35,30 +46,3 @@ To run this project, you must have installed a virtual server such as XAMPP on y
 This project is free to download and use for educational purposes only.
 
 Feel free to explore the project and enjoy the online shopping experience!
-
-
-
-
-
-
-<!--- # Online-Shopping-Portal
-
-- Online Shopping Portal is a combination of PHP and MySQL.
-
-# Features of the Project
-
-1. User Registration
-2. User login system
-3. Change password
-4. Forgot password
-5. Profile management sytem.
-6. Shopping cart
-7. Wishlist
-8. Order History
-
-# Features of Admin
-
-1. Product Management (Add,Update, Delete)
-2. Order Management System
-3. User Management
-4. Category/ Sub Category Creation --->
