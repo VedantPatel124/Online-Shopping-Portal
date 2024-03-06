@@ -41,8 +41,4 @@ To run this project, you must have installed a virtual server such as XAMPP on y
 9. Open a browser and go to URL `http://localhost/online-shopping-portal/`.
 10. For the admin panel, go to URL `http://localhost/online-shopping-portal/admin/`.
 
-## Disclaimer
-
-This project is free to download and use for educational purposes only.
-
 Feel free to explore the project and enjoy the online shopping experience!
