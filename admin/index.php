@@ -51,7 +51,7 @@ exit();
 					<i class="icon-reorder shaded"></i>
 				</a>
 
-			  	<a class="brand" href="index.html">
+			  	<a class="brand" href="http://localhost/online_shopping_portal/admin/index.php">
 			  		Shopping Portal | Admin
 			  	</a>
 
